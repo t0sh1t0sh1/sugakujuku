@@ -770,11 +770,12 @@ footer {
 
 
   .txt > p {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 
   .txt-btn {
     margin-top: 20px;
+    font-size: 1rem;
   }
 
 

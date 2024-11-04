@@ -667,6 +667,10 @@ footer {
 
 
 @media screen and (max-width: 900px) {
+  html {
+    overflow-x: hidden;
+  }
+
   #header {
     padding: 20px 0 0 25px;
   }
